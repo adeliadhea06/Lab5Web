@@ -116,7 +116,7 @@ Kelas : TI.22.A.1
 
 #### HTML DOM
 
-Pilihan menggunakan checkBox dengan perhitungan otomatis
+1. Pilihan menggunakan checkBox dengan perhitungan otomatis
     
     ![Screenshot (430)](https://github.com/adeliadhea06/Lab5Web/assets/115794875/a7fbe1d9-9c5d-47f0-8368-e46779286a2c)
     
@@ -127,7 +127,7 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 #### Lakukan validasi dokumen html dengan mengakses https://validator.w3.org
 
-    ![Screenshot (433)](https://github.com/adeliadhea06/Lab5Web/assets/115794875/1db1f52d-cfd1-4ab1-a884-6a1485a60578)
+![Screenshot (433)](https://github.com/adeliadhea06/Lab5Web/assets/115794875/1db1f52d-cfd1-4ab1-a884-6a1485a60578)
 
 
 #### Pertanyaan dan Tugas
