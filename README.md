@@ -116,7 +116,7 @@ Kelas : TI.22.A.1
 
 #### HTML DOM
 
-    Pilihan menggunakan checkBox dengan perhitungan otomatis
+Pilihan menggunakan checkBox dengan perhitungan otomatis
     
     ![Screenshot (430)](https://github.com/adeliadhea06/Lab5Web/assets/115794875/a7fbe1d9-9c5d-47f0-8368-e46779286a2c)
     
